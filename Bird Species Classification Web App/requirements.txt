@@ -3,3 +3,4 @@ numpy
 Pillow==9.0.1
 tensorflow==2.8.0
 opencv-python-headless
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
