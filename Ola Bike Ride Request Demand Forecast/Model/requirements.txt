@@ -104,7 +104,7 @@ jupyter-core==4.6.3
 jupyterlab==2.2.6
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
-Keras==2.4.3
+Keras==3.9.0
 Keras-Preprocessing==1.1.2
 keyring @ file:///C:/ci/keyring_1601488971022/work
 kiwisolver @ file:///C:/ci/kiwisolver_1603996595157/work
