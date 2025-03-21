@@ -70,7 +70,7 @@ google-auth==1.24.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
 greenlet @ file:///C:/ci/greenlet_1600874076725/work
-grpcio==1.32.0
+grpcio==1.58.3
 h5py==2.10.0
 HeapDict==1.0.1
 helpdev==0.7.1
