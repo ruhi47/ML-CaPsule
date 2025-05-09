@@ -283,3 +283,4 @@ zict==2.0.0
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
 zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1602002496598/work
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
