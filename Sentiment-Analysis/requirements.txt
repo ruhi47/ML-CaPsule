@@ -3,3 +3,4 @@ pandas
 streamlit
 scikit-learn==0.24.2
  
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
