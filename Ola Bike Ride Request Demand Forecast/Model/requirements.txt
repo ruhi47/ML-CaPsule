@@ -167,7 +167,7 @@ pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-protobuf==3.14.0
+protobuf==6.33.5
 psutil @ file:///C:/ci/psutil_1598352273540/work
 ptyprocess==0.7.0
 py @ file:///tmp/build/80754af9/py_1593446248552/work
@@ -283,3 +283,4 @@ zict==2.0.0
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
 zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1602002496598/work
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
